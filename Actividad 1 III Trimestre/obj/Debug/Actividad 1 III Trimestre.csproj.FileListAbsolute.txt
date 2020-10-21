@@ -1,0 +1,7 @@
+C:\Users\eleanor garage\source\repos\Actividad 1 III Trimestre\Actividad 1 III Trimestre\bin\Debug\Actividad 1 III Trimestre.exe.config
+C:\Users\eleanor garage\source\repos\Actividad 1 III Trimestre\Actividad 1 III Trimestre\bin\Debug\Actividad 1 III Trimestre.exe
+C:\Users\eleanor garage\source\repos\Actividad 1 III Trimestre\Actividad 1 III Trimestre\bin\Debug\Actividad 1 III Trimestre.pdb
+C:\Users\eleanor garage\source\repos\Actividad 1 III Trimestre\Actividad 1 III Trimestre\obj\Debug\Actividad 1 III Trimestre.csprojAssemblyReference.cache
+C:\Users\eleanor garage\source\repos\Actividad 1 III Trimestre\Actividad 1 III Trimestre\obj\Debug\Actividad 1 III Trimestre.csproj.CoreCompileInputs.cache
+C:\Users\eleanor garage\source\repos\Actividad 1 III Trimestre\Actividad 1 III Trimestre\obj\Debug\Actividad 1 III Trimestre.exe
+C:\Users\eleanor garage\source\repos\Actividad 1 III Trimestre\Actividad 1 III Trimestre\obj\Debug\Actividad 1 III Trimestre.pdb
